@@ -16,5 +16,6 @@ if (isset($_GET['a']) and isset($_GET['b'])) {
 else
 {
 	print '无参数';
+	//隐藏注释
 }
 ?>
